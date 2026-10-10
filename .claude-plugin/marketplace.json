@@ -1,0 +1,15 @@
+{
+  "name": "go-no-go",
+  "description": "Go No-Go: a strict second opinion on your idea before you build it.",
+  "owner": {
+    "name": "Darinskay",
+    "url": "https://github.com/Darinskay"
+  },
+  "plugins": [
+    {
+      "name": "go-no-go",
+      "source": "./",
+      "description": "Runs one idea through five strict review rounds that try to kill it before you build it."
+    }
+  ]
+}

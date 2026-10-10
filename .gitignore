@@ -1,0 +1,12 @@
+# Go No-Go records and ledger (personal, never commit)
+.go-no-go/
+
+# Build output
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

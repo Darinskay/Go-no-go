@@ -1,0 +1,14 @@
+{
+  "name": "go-no-go",
+  "displayName": "Go No-Go",
+  "version": "1.0.0",
+  "description": "Runs one idea through five strict review rounds that try to kill it before you build it.",
+  "author": {
+    "name": "Darinskay",
+    "url": "https://github.com/Darinskay"
+  },
+  "homepage": "https://github.com/Darinskay/Go-no-go",
+  "repository": "https://github.com/Darinskay/Go-no-go",
+  "license": "MIT",
+  "keywords": ["ideas", "validation", "startup", "decision", "skeptic"]
+}
